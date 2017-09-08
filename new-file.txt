@@ -1,2 +1,10 @@
+
 something new and plus asdas changes-master
 new line master
+=======
+something new (new-branch)
+
+new linees
+new liness
+nnnew lines
+
